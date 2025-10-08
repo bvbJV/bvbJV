@@ -18,7 +18,7 @@
 <h3 align="left">Tecnologías</h3>
 
 ###
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=Bootstrap)
