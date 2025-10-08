@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy un estudiante de DAM con conocimientos en progrmación y bases de datos, con ganas de seguir aprandiendo.</p>
+<p align="left">Soy un estudiante de DAM con conocimientos en progrmación y bases de datos, con ganas de seguir aprendiendo.</p>
 
 ###
 
