@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Bachir, soy un estudiante DAM con conocimientos en diferentes lenguajes de programación y bases de datos
 
 <!--
 **bvbJV/bvbJV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
