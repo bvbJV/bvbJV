@@ -15,6 +15,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-000?&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/-JPA%20(Hibernate)-000?&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=white)
+
+
 <h3 align="left">Tecnologías</h3>
 
 ###
