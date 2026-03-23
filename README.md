@@ -21,6 +21,7 @@
 ![JPA](https://img.shields.io/badge/-JPA%20(Hibernate)-000?&logo=hibernate&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?&logo=jetpackcompose&logoColor=white)
 ![API REST](https://img.shields.io/badge/-API%20REST-000?&logoColor=white)
+![Retrofit](https://img.shields.io/badge/-Retrofit-000?&logo=android&logoColor=white)
 
 <h3 align="left">Herramientas y Tecnologías</h3>
 
@@ -30,6 +31,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Apache%20Maven-000?&logo=apachemaven&logoColor=white)
 ![AsciiDoc](https://img.shields.io/badge/-AsciiDoc-000?&logo=asciidoctor&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-000?&logoColor=white)
 
 <h3 align="left">Bases de Datos</h3>
 
@@ -41,5 +44,7 @@
 
 <h3 align="left">Contacto:</h3>
 <a href="mailto:bharrak93@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo" />
+</a>
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
 </a>
